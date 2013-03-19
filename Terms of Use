@@ -1,0 +1,219 @@
+Company name <%= company_name %>
+Site name <%= site_name %>
+Site address <%= site_address %>
+
+Last updated 17 March 2013.
+
+TERMS OF USE
+
+These Terms of Use (together with our Privacy Policy and Cookies Policy) apply to the use of this website ("Site") hosted and maintained by IDDQD Limited ("Ideal Takeaway"). These Terms of Use also apply to any mobile application through which you access this website or services. By using this Site and/or ordering products via the Site (whether now or in the future), you agree to be bound by these Terms of Use. We reserve the right to change these Terms of Use. Use of your personal information submitted via the Website is governed by our Privacy Policy and Cookies Policy. For the avoidance of doubt, please note that references to “Site” in these Terms of Use include any current or future version of our website <%= site_name %> and any IDDQD Limited hosted mobile application through which you access our website or services, in each case whether accessed through any current or future platform or device (including without limitation any mobile website, mobile application, affiliate website or related website for accessing our website or services that may be developed from time to time).
+
+1. Introduction
+
+a. This website (the "Site") is owned and operated by IDDQD Limited. 
+
+b. Your access to, use of, placing of an order, linking to the Site, use of software or downloading software on the Site (collectively, your "Access") is conditional upon your acceptance and compliance with the terms, conditions, notices and disclaimers contained on this page and elsewhere on the Site ("Terms of Use"). If you do not agree with the Terms of Use, exit this Site.
+
+c. Your Access to the Site constitutes your agreement to be bound by the Terms of Use. We reserve the right to amend the Terms of Use at any time and you should periodically refer to them on this page and elsewhere on this site.
+
+d. These Terms of Use apply to the use of this website ("Site"), and by accessing this Site and/or placing an order you agree to be bound by the terms and conditions set out below.
+
+e. The Terms of Use of this Site do not affect your statutory rights as a consumer.
+
+f. "You" and "Your" means the person using this Site to order goods and subject to these Terms of Use.
+
+g. "Ideal Takeaway", "We", "Us", or "Our" means:
+
+IDDQD Limited
+Registered in England and Wales at XXX, XXX, XXX.
+Company Registration No. XXXXXXX. VAT Number XXX XXXX XX.
+
+2. Purpose
+
+a. The purpose of this Site is to provide a simple, convenient and cost-effective service to consumers, linking them to <%= company_name %>. Interactive menus allow customers to build and submit orders at the click of a button.
+
+############# REMEMBER THIS
+
+b. By joining, members can view their order history, rate past orders, introduce friends and earn discounts.
+
+3. Disclaimers and Limitation of Liability
+
+a. To the extent permitted by law, IDDQD Limited provides this Site and content on an "as-is" and "as available" basis and we make no representation or warranty of any kind, express or implied, regarding the content or availability of this Site, or that it will be timely or error-free, that defects will be corrected, or that the Site or server that makes it available are free of viruses or other harmful components.
+
+b. Subject to the previous paragraph, neither IDDQD Limited nor its directors, officers, agents, employees or contractors shall have any liability for any direct, indirect, special or consequential losses or damages (including without limitation, damages for loss of business or loss of profits), arising in contract, tort or otherwise from the use or inability to use this Site.
+
+c. Nothing in these terms shall exclude or limits liability for death or personal injury resulting from our negligence or that of our agents or employees.
+
+4. Intellectual Property
+
+a. You may not print, copy, reproduce, download, republish, broadcast, transmit, display, modify or re-use the materials from this Site for anything other than personal, non-commercial use, including in particular any purpose which publicly re-sells or re-uses the materials, without the prior written consent of the copyright holder.
+
+b. All copyright, trade marks and other intellectual property rights in this Site and its content (including without limitation the Site design, text, graphics, logos, icons, images and all software, databases and source code connected with the Site) are owned by or licensed to <%= company_name %> or otherwise used by <%= company_name %> as permitted by law.
+
+c. iddqd.com and the Ideal Takeaway logo are unregistered trade marks of IDDQD Limited.
+
+5. Indemnity
+
+You must indemnify and hold harmless IDDQD Limited, its directors, officers, employees, agents, vendors, advertisers, partners and suppliers and keep them indemnified against all loss, actions, proceedings, costs, expenses (including legal fees), claims and damages arising from your Access to and use of this Site, any breach or violation of the Terms of Use of this Site or your violation of any law or your violation of the rights of any third party.
+
+6. Availability
+
+This Site may be unavailable at certain times to allow for maintenance and upgrades. Although we will endeavour to notify customers in advance of any service unavailability, this cannot be guaranteed and we reserve the right to alter or withdraw the service at any time.
+
+7. Third Party Sites
+
+You may provide a non-framed link to this Site from any other business or service website but not in any way which gives the impression that we are associated with or have approved such other site, unless expressly agreed to by ourselves in writing.
+
+8. Limitations of Use
+
+a. This Site is intended to be accessed by persons located in the UK and we make no representation that any information, materials or functions included in this Site are appropriate for use in any other jurisdiction.
+
+b. By using this Site, you warrant that any personal information provided by you is true, accurate, current and complete in all respects and that you will notify us immediately of any changes to your personal information by updating your member profile on the Site or contacting us.
+
+c. You agree not to impersonate any other person or entity or to use a false name or a name that you are not authorised to use.
+
+d. To use our service you must be over 18 years of age.
+
+e. You are not allowed to register multiple memberships for use by the same person. Violation of this clause may result in termination of your membership.
+
+f. Members' passwords should be kept confidential at all times, and must not be shared or disclosed to anyone. You are responsible for all activities and orders that occur or are submitted through your membership. If you know or suspect that someone has knowledge of your password then you should contact us immediately.
+
+g. You may not use the Site for any unlawful or unauthorised purpose, including without limitation:
+
+i. distributing any unlawful, libellous, abusive, threatening, harmful, obscene or otherwise objectionable material;
+
+ii. transmitting material that constitutes a criminal offence, results in civil liability or otherwise breaches any laws, regulations or codes of practice;
+
+iii. interfering with any other persons use or enjoyment of the Site; or
+
+iv. damaging, disabling or impairing the operation of this Site or attempting to gain unauthorised access to this Site or to networks connected to it, through hacking, spoofing or other such similar means.
+
+9. Feedback and User Submissions
+
+If you do send to us by email or otherwise, any communication or material, you represent and warrant that the information and material is original to you, and you will be deemed to have granted us a perpetual, world-wide, royalty-free license to use such communications or material in any way we see fit and we will be free to use any such material or information contained in communications you send for any purpose whatsoever.
+
+10. Placing an order
+
+a. IDDQD Limited accepts no responsibility or liability for the quality or quantity of any goods delivered by or collected from  <%= company_name %> or other third parties. It is the responsibility of the customer to thoroughly check the supplied goods before agreeing to pay for an order.
+
+b. All questions regarding goods shown on this Site should be directed to <%= company_name %>.
+
+c. After you submit an order to us, we will give you an Order Number and send the details of this order in an email. Please note that this is acknowledgement of your order, not acceptance.
+
+d. Acceptance of your order will only occur when we send you a further email confirming that <%= company_name %> has received and accepted your order. If <%= company_name %> is unable to fulfil your order you will receive an email stating that your order has been declined.
+
+e. Please make sure the email address you provide is correct and your mailbox is in proper working order, as all correspondence regarding your order is sent to this address.
+
+f. All food preparation and deliveries are the sole responsibility of <%= company_name %>. Please be aware that <%= company_name %> will do everything they can to meet the delivery time you specified, however delivery times may be affected by factors beyond their control and therefore cannot be guaranteed. We will inform you if we become aware of an unexpected delay.
+
+g. Incorrect personal details may lead to problems or delays in delivery, so please ensure that you have included your correct address (including postcode), email address and contact telephone number when ordering.
+
+h. Members can track the progress of their orders by viewing their Order History.
+
+i. In the event that you have a complaint about the quality of the food or service provided by <%= company_name %> then any compensation should be sought directly from the restaurant. IDDQD Limited is not able to provide refunds on behalf of <%= company_name %> and is not liable for any such refunds sought. All complaints must be lodged initially with <%= company_name %> and, where appropriate, <%= company_name %>'s own complaints procedures followed before IDDQD Limited is able to respond to a complaint.
+
+j. In the event that you are dissatisfied with the quality of food ordered through this Website, subject to paragraph 10.i. above, IDDQD Limited will assist you, where possible, in seeking a refund from the restaurant to a maximum amount equivalent to the value of the original order. An important part of our quality control process is that consumers provide ratings and feedback on the Website to reflect their experiences with restaurants. Please note that any complaint must be lodged with our customer care team using the method described above within 48 hours of placing the order.
+
+11. Alcohol
+
+Pursuant to the Licensing Act 1964, it is an offence for any person under the age of 18 to buy, or attempt to buy, intoxicating liquor, or for any person over the age of 18 to buy intoxicating liquor on behalf of any person under the age of 18. Orders containing alcohol can therefore not be accepted from minors.
+
+12. Payment
+
+a. Once your order has been accepted, this represents an agreement between you the customer and <%= company_name %>. <%= company_name %> has sole responsibility for this order. Payment for all orders must be by credit or debit card as stated on this Website or in cash at the point of delivery to you.
+
+b. If you have chosen to pay with credit or debit card on the Site then the transaction is processed by IDDQD Limited as an authorised agent of <%= company_name %>. Cash payments are made directly to <%= company_name %>. 
+
+c. All prices are inclusive of VAT and quoted in British (Sterling) Pounds. Prices may exclude delivery costs, which will be added to the total amount due (if you opt for delivery instead of collection), where applicable.
+
+d. Delivery and/or card charges are calculated per order and based on <%= company_name %> policy. Any delivery charges or card fees will be displayed clearly in your Order Summary.
+
+e. Prices are subject to change and all goods are subject to availability.
+
+13. Cancellation
+
+a. You have the right to cancel an order up to the point the order is sent to <%= company_name %>. Normally, this is approximately 45 minutes before the time you requested delivery or collection of the order.
+
+b. Members can cancel an order via their Order History, while guests can use the "Cancel order" link in the confirmation email they received.
+
+c. While every effort is made to ensure that accurate pricing and descriptions are maintained, we reserve the right to cancel any order that is based on inaccurate information.
+
+d. An order may be subsequently cancelled by <%= company_name %> after you have received an email stating the order has been accepted. IDDQD Limited and <%= company_name %> reserves the right to cancel any order, before or after acceptance, and will notify you immediately of any such cancellation.
+
+14. Customer Ratings
+
+The ratings contained on this Site are for informational purposes only and do not constitute advice. Nor should you rely on ratings to make (or refrain from making) or take (or refrain from taking) any action. Ratings are the opinions of customers who have ordered through the Site, and any statements, advice or opinions made by such customers are those of such customers only.
+
+############OPTIONAL TERMS AS AGREED WITH <%= company_name %>???
+
+15. Loyalty Stamps
+
+a. Members of the Site have the opportunity to collect loyalty stamps when ordering from <%= company_name %> (indicated by the presence of a special icon). 
+
+b. A loyalty stamp is earnt when an order is placed with <%= company_name %> on the Site and the order is Accepted and filled by <%= company_name %>.
+
+c. You may earn a maximum of 1 stamp per day. Once you have collected a total of 5 or more stamps, you are able to exchange them for a 50% discount on your next order from <%= company_name %>. Please note that whilst you can earn stamps on any day of the week that you order, they can only be redeemed Monday - Thursday. 
+
+d. Rates of discount may change without notice, and the offer may be withdrawn either from <%= company_name %> or from the whole of the Site without prior notice and with immediate effect. In such circumstances, any discounts due and stamps collected will be void, and neither <%= company_name %> nor IDDQD Limited may be held liable for any losses incurred as a result. 
+
+e. Stamps have no cash value. The offer is non-exchangeable, and may only be used as described in these Terms of Use.
+
+16. Termination
+
+a. We reserve the right to decline a new registration, terminate your right to link to the Site, remove you as a user of this Site, and/or prevent any further use if you violate any of the Terms of Use. If we consider there to be a risk of liability or loss to us or <%= company_name %> we may take any action deemed necessary to prevent such a liability or loss from occurring.
+
+b. If we terminate your right to link to the Site you must cease linking to the Site immediately. Any person who holds a suspended or terminated membership must not order from or re-join this Site without our prior written consent. We reserve the right to assign or sub-contract any or all of our rights and obligations under these terms.
+
+c. Please note that we have the ability to trace your IP address, and if necessary, contact your ISP in the event of a suspected breach of these Terms of Use.
+
+17. Enforceability
+
+a. If any part of these Terms of Use are deemed unlawful, void or for any reason unenforceable, then that provision shall be deemed severable from these Terms of Use and shall not affect the validity and enforceability of any of the remaining provisions of these Terms of Use.
+
+b. No waiver by us shall be construed as a waiver of any preceding or succeeding breach of any provision.
+
+18. Governing Law
+
+The Terms of Use, Privacy Policy and any matter relating to this Site shall be governed by English law and any dispute shall be resolved exclusively in the courts of England.
+
+19. Gift Vouchers
+
+a. <%= company_name %> gift vouchers may be redeemed on the <%= company_name %> website or <%= company_name %> iPhone app.
+
+b. Gift vouchers have no cash redemption value and are not transferable or assignable. 
+
+c. IDDQD Limited may provide gift voucher purchasers with information about the redemption status of gift vouchers that they purchase.
+
+d. Any unused balance will be available on 'My Account' on the <%= site_name %> website.
+
+e. If the order exceeds the amount of the gift voucher, the balance must be paid by credit or debit card.
+
+f. Once redeemed, you must select Account Balance during checkout to use the gift voucher for a purchase.
+
+g. Gift vouchers and unused portions of gift vouchers expire one year from the date of issue, where permissible under applicable law.
+
+h. Normal IDDQD Limited terms and conditions of purchase and for using the <%= site_name %> website apply.
+
+i. Please note that some products available for sale on the <%= site_name %> website may not be purchased by persons under a specified age. If you are planning to give a gift voucher to someone under 18 years of age, please ensure that they are made aware that some products are unavailable to them (e.g. alcohol).
+
+j. IDDQD Limited is not responsible if a gift voucher is lost, stolen, destroyed or used without permission.
+
+_____________________________________________
+
+PRIVACY POLICY
+
+We are registered with the Information Commissioner's Office (no. XXXXXXXXXX) for the Data Protection Act. By visiting and/or ordering products on this Website, you agree and where required you consent to the collection, use and transfer of your information as set out in this policy.
+
+Although IDDQD Limited and <%= company_name %> will take reasonable steps to protect your information, we cannot guarantee the security of your data transmitted on the Website; any transmission is at your own risk.
+
+
+
+
+
+
+
+
+
+
+
+

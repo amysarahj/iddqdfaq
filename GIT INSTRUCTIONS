@@ -1,0 +1,34 @@
+GIT INSTRUCTIONS
+
+NAVIGATING YOUR FILE SYSTEM WITH TERMINAL:
+
+$ls 					- lists contents of current directory
+$cd [directory name] 	- change directory into directory name
+$~ 						- home folder (in your case, amysarahj)
+$cd ~ 					- directory into home folder
+$pwd					- shows you which directory you're currently in
+
+Whenever you want to check the status of your current repository, use the above commands to make sure you're in the right place
+
+TO INITIATE A GIT REPOSITORY:
+$git init .
+
+TO CHECK LATEST CHANGES IN YOUR REPOSITORY:
+$git status
+
+TO ADD NEW FILES TO YOUR REPOSITORY: (Do this before you "commit" or new files won't be added)
+$git add . (this adds all new files in this folder)
+
+TO COMMIT CHANGES IN YOUR REPOSITORY: 
+$git commit -am "Type your message here"
+
+TO PUSH YOUR CHANGES TO GITHUB:
+$git push github master (this pushes your master branch to github)
+
+
+
+ADVANCED
+========
+
+ADDING GITHUB AS A REMOTE REPOSITORY:
+$git remote add github [your github repository url goes here - find this on your account page]

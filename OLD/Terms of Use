@@ -2,11 +2,17 @@ Company name <%= company_name %>
 Site name <%= site_name %>
 Site address <%= site_address %>
 
-Last updated 17 March 2013.
+
 
 TERMS OF USE
 
-These Terms of Use (together with our Privacy Policy and Cookies Policy) apply to the use of this website ("Site") hosted and maintained by IDDQD Limited ("Ideal Takeaway"). These Terms of Use also apply to any mobile application through which you access this website or services. By using this Site and/or ordering products via the Site (whether now or in the future), you agree to be bound by these Terms of Use. We reserve the right to change these Terms of Use. Use of your personal information submitted via the Website is governed by our Privacy Policy and Cookies Policy. For the avoidance of doubt, please note that references to “Site” in these Terms of Use include any current or future version of our website <%= site_name %> and any IDDQD Limited hosted mobile application through which you access our website or services, in each case whether accessed through any current or future platform or device (including without limitation any mobile website, mobile application, affiliate website or related website for accessing our website or services that may be developed from time to time).
+Last updated 19 March 2013.
+
+i. These Terms of Use (together with our Privacy Policy and Cookies Policy) apply to the use of this website ("Site") hosted and maintained by IDDQD Limited. These Terms of Use also apply to any mobile application through which you access this website or services. 
+
+ii. Use of your personal information submitted via the Website is governed by our Privacy Policy and Cookies Policy. 
+
+iii. For the avoidance of doubt, please note that references to “Site” in these Terms of Use include any current or future version of our website <%= site_name %> and any IDDQD Limited hosted mobile application through which you access our website or services, in each case whether accessed through any current or future platform or device (including without limitation any mobile website, mobile application, affiliate website or related website for accessing our website or services that may be developed from time to time).
 
 1. Introduction
 
@@ -25,8 +31,8 @@ f. "You" and "Your" means the person using this Site to order goods and subject 
 g. "Ideal Takeaway", "We", "Us", or "Our" means:
 
 IDDQD Limited
-Registered in England and Wales at XXX, XXX, XXX.
-Company Registration No. XXXXXXX. VAT Number XXX XXXX XX.
+Registered in the UK at 1 Wellington House, 2 Pepys Crescent, London E16 1SF, UK.
+Company Registration No. 08302922.
 
 2. Purpose
 
@@ -50,7 +56,7 @@ a. You may not print, copy, reproduce, download, republish, broadcast, transmit,
 
 b. All copyright, trade marks and other intellectual property rights in this Site and its content (including without limitation the Site design, text, graphics, logos, icons, images and all software, databases and source code connected with the Site) are owned by or licensed to <%= company_name %> or otherwise used by <%= company_name %> as permitted by law.
 
-c. iddqd.com and the Ideal Takeaway logo are unregistered trade marks of IDDQD Limited.
+c. iddqd.com and the IDDQD logo are trade marks of IDDQD Limited.
 
 5. Indemnity
 

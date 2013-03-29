@@ -1,4 +1,4 @@
-∑Company name <%= company_name %>
+Company name <%= company_name %>
 Site name <%= site_name %>
 Site address <%= site_address %>
 
@@ -6,131 +6,157 @@ Site address <%= site_address %>
 
 
 
-SERVICE AGREEMENT A (Takeaway Starter)
+SERVICE AGREEMENT
 
-Last updated 21 March 2013.
+Last updated 29 March 2013.
 
-The following terms and conditions apply all website development, maintenance and hosting services provided by IDDQD Limited to <%= company_name %> ("Client") ("Services").
+The following terms and conditions apply all website development, maintenance and hosting services provided by IDDQD Limited to <%= company_name %> ("Client").
 
-This Internet-based online service (“Service”) is provided by IDDQD Limited and is subject to the terms and conditions of this customer agreement ("Agreement"). This Agreement constitutes the entire agreement between the Client and IDDQD Limited. By using the "Takeaway Starter" Service, the Client confirms its acceptance of, and agreement to be bound by, this Agreement.
+This Internet-based online service (“Service”) is provided by IDDQD Limited and is subject to the terms and conditions of this customer agreement ("Agreement"). This Agreement constitutes the entire agreement between the Client and IDDQD Limited. By using the Service, the Client confirms its acceptance of, and agreement to be bound by, this Agreement.
 
-1. Acceptance
+1. Acceptance and Effective Date
 
-It is not necessary for the Client to have signed an acceptance of these terms and conditions for them to apply. If the Client accepts a Service then the Client will be deemed to have satisfied itself as to the terms and conditions and have accepted this Service Agreement in full.
+If the Client accepts a Service then the Client will be deemed to have satisfied itself as to the terms and conditions and have accepted this Service Agreement in full.
 
-2. Services provided
+This Agreement takes effect on the date on which the Client signs this Agreement and continues until the Service relationship is terminated either by the Client or by IDDQD Limited. 
 
-Under the "Takeaway Starter" Service, IDDQD Limited will provide to the Client:
+All pages on the Website are subject to review, modification and deletion without notice by IDDQD Limited. IDDQD Limited reserves the right in its sole discretion to change its policies at any time.
 
-i. design, setup and maintenance of a fully functioning and personalised website through which the Client can advertise and complete transactions for its products; 
+The Client is responsible for reviewing regularly information posted online to obtain timely notice of such changes. The Client's non-termination or continued use of the Service after changes are posted constitutes its acceptance of this agreement as modified by the posted changes.
 
-ii. twenty-four (24) hour phone support regarding specific maintenance queries of the Website;
+2. Services Provided
 
-iii. access to the Proprietary App Suite; and
+__________________________________________________________
 
-iv. an online card payment service through which IDDQD Limited will receive and hold revenue in a bank account as an agent for the Client.
+The Client may opt into either of the following Services:
 
-3. Client Review
+a. Takeaway Starter
 
-IDDQD Limited will provide the Client with an opportunity to provide input to the appearance and content of the website during the design phase. At the completion of the design phase, such materials will be deemed to be accepted and approved unless the Client notifies IDDQD Limited otherwise within five (5) working days of the date the materials are made available to the Client.
+i. Under the "Takeaway Starter" Service, IDDQD Limited will provide to the Client:
 
-4. Turnaround Time and Content Control
+- design, setup and maintenance of an instance of IDDQD Limited's proprietary takeaway e-commerce platform ("IDEAL Takeaway") through which the Client can advertise, accept and execute orders for its takeaway business; and
 
-i. IDDQD Limited will install and publicly post or supply the website ten (10) working days following the Commencement Date, unless a delay is specifically requested by the Client and agreed by IDDQD Limited.
+- phone support for reasonable trouble-shooting maintenance queries during the hours of 09:00-17:00 Mondays - Fridays, with reasonable efforts made at all other times.
 
-ii. In return, the Client agrees to delegate a single individual as a primary contact to aid IDDQD Limited with progressing the design phase in a satisfactory and expedient manner.
+ii. Client may upgrade from the "Takeaway Starter" Service to the "Takeaway Partner" Service at any time upon agreement with IDDQD Limited.
 
-iii. During the course of the engagement, IDDQD Limited will require the Client to provide website content which may include: text, images, movies and sound files. 
+iii. Where the Client upgrades its service in accordance with Clause 2.a.ii., the Service Agreement will still operate.
 
-5. Failure to provide required website content
+............................................................
 
-IDDQD Limited requires the Client to provide all required website content in advance. On any occasion where progress cannot be made with the Client's website because IDDQD Limited has not been given the required content in the agreed time frame, and IDDQD Limited is delayed as result, IDDQD Limited reserves the right to impose a surcharge on the daily fee of up to 25%.
+b. Takeaway Partner
 
-Text content should be delivered as a Microsoft Word, email (or similar) document with the pages in the supplied document representing the content of the relevant pages on the Client's website. These pages should have the same titles as the agreed website pages.
+Under the "Takeaway Partner" Service, IDDQD Limited will provide to the Client:
 
-CMS???
+- design, setup and maintenance of an instance of IDDQD Limited's proprietary takeaway e-commerce platform ("IDEAL Takeaway") through which the Client can advertise, accept and execute orders for its takeaway business;
 
-2. Fees, charges and commission
+- phone support for reasonable trouble-shooting maintenance queries during the hours of 09:00-17:00 Mondays - Fridays, with reasonable efforts made at all other times;
 
-########## TAKEAWAY STARTER
+- online and offline marketing services (including SEO or online ad spend); and
 
-Unless agreed otherwise with the Client, the following applies to fees, charges and commission payable by the Client to IDDQD Limited.
+- discounts on optional devices for the Client's back office operations and delivery.
 
-i. Daily charges accrue from the date of signature of the Service Agreement ("Commencement Date"), at a rate of one pound per day, invoicable in arrears on launch date and on the first friday of the following month thereafter.
+__________________________________________________________
 
-ii. Commission accrues from the launch date, at a rate of 10% on the total sum of each successfully completed transaction, invoicable in arrears on the first friday of the following month.
+3. Client Review and Content Control
 
-iii. Payment for services is due by cheque or bank transfer. Cheques should be made IDDQD Limited and sent to 1 Wellington House, 2 Pepys Crescent, London E16 1SF, UK. Bank details will be made available on invoices.
+a. IDDQD Limited will provide the Client with an opportunity to provide input to the design and content of the website during the design phase. 
 
-iv. IDDQD Limited will send the Client invoices via email. Invoices are due upon receipt. Accounts that remain unpaid thirty (30) days after the date of the invoice will be assessed a service charge in the amount of the higher of one and one-half percent (1.5%) or £30 per month of the total amount due.
+b. Not withstanding Clause 3.a), final decisions as to the design and content of the Website will be made by IDDQD Limited.
 
-v. IDDQD Limited reserves the right to revise its fees, charges and commission on at the end of each quarterly financial period.
+4. Website Content
 
-7. Additional Expenses
+a. During the course of the engagement, the Client is to make reasonable efforts to:
 
-The Client agrees to reimburse IDDQD Limited for any additional reasonable expenses necessary for the completion of the work (e.g. purchase of special fonts, stock photography). IDDQD Limited will endeavour to provide reasonable notice where additional expenses are likely to be incurred. 
+i. provide website content which may include text and images; and
 
-8. Web Browsers
+ii. provide photographic images.
 
-IDDQD Limited makes every effort to ensure websites are designed to be viewed by the majority of visitors. Websites are designed to work with the most popular current browsers (including Firefox, Internet Explorer 8 & 9 and Google Chrome). The Client agrees that IDDQD Limited cannot guarantee correct functionality with all browser software across different operating systems.
+b. IDDQD Limited may assist with photography as may be agreed with the Client.
 
-IDDQD Limited cannot accept responsibility for web pages which do not display acceptably in new versions of browsers released after the website have been designed and handed over to the Client. As such, IDDQD Limited reserves the right to quote for any work involved in changing the website design or website code for it to work with updated browser software.
+c. IDDQD Limited does not endorse or stand behind the accuracy, truthfulness or reliability of any information (including statements of opinion or advice) provided on or by means of the Service. 
+
+d. IDDQD Limited is not, under any circumstances, responsible for any copyright or royalty payments arising from content displayed by means of the service. 
+
+5. Intellectual Property
+
+a. The Client retains the copyright to data, files and graphic logos provided by the Client, and grants IDDQD Limited the rights to publish and use such material for the duration of this Service Agreement.
+
+b. The Client must obtain permission and rights to use any information or files that are copyrighted by a third party. The Client is further responsible for granting IDDQD Limited permission and rights for use of the same and agrees to indemnify and hold harmless IDDQD Limited from any and all claims resulting from the Client's negligence or inability to obtain proper copyright permissions.
+
+c. This Service Agreement shall be regarded as a guarantee by the Client to IDDQD Limited that all such permissions and authorities have been obtained.
+
+d. IDDQD Limited reserves the right to re-use any customisable template design at a later stage if appropriate.
+
+e. The structure, layout, design and any webpage content (words and pictures) supplied by IDDQD Limited remains the intellectual property of IDDQD Limited and must not, under any circumstances, be used without IDDQD Limited's explicit consent . The IDDQD Limited will defend all attempts to copy, reproduce or plagiarise its intellectual property.
+
+6. Fees, Charges and Commission
+
+Takeaway Starter
+
+a. Unless agreed otherwise with the Client, the following applies to fees, charges and commission payable by the Client to IDDQD Limited.
+
+i. Daily charges accrue from the date upon which the Website is uploaded to the server ("Launch Date"), at a rate of one pound per day (£1), invoicable on the first friday of each month.
+
+ii. Commission also accrues from the Launch Date, at a rate of 10% of the total sum of each successfully completed transaction ("Website Revenue"), invoicable on the first Friday of each month.
+
+b. In the event that the Commission and Daily Fee collectively exceeds Website Revenue, the following will apply.
+
+i. Payment for services is due to IDDQD Limited by bank transfer. Bank details will be made available on invoices.
+
+ii. IDDQD Limited will send the Client invoices via email. Invoices are due upon receipt. 
+
+iii. Accounts that remain unpaid thirty (30) days after the date of the invoice will be assessed a service charge in the amount of the higher of one and one-half percent (1.5%) or £30 per month of the total amount due.
+
+c. In the event that Website Revenue exceeds Commission, IDDQD Limited will electronically transfer the net sum to the Client on the first Friday of each month.
+
+d. IDDQD Limited reserves the right to revise its fees, charges and commission at the end of each quarterly financial period.
+
+Takeaway Partner
+
+a. Unless otherwise agreed with the Client, the following applies to fees, charges and commission payable by the Client to IDDQD Limited.
+
+i. An annual subscription fee is payable from the date upon which this Service Agreement is signed.
+
+ii. Commission also accrues from the Launch Date, at a rate of 7.5% of Website Revenue, invoicable on the first Friday of each month.
+
+b. In the event that the Commission exceeds Website Revenue, the following will apply.
+
+i. Payment for services is due to IDDQD Limited by bank transfer. Bank details will be made available on invoices.
+
+ii. IDDQD Limited will send the Client invoices via email. Invoices are due upon receipt. 
+
+iii. Accounts that remain unpaid thirty (30) days after the date of the invoice will be assessed a service charge in the amount of the higher of one and one-half percent (1.5%) or £30 per month of the total amount due.
+
+c. In the event that Website Revenue exceeds Commission, IDDQD Limited will electronically transfer the net sum to the Client on the first Friday of each month.
+
+d. IDDQD Limited reserves the right to revise its fees, charges and commission at the end of each quarterly financial period.
 
 9. Default
 
-Accounts unpaid 30 days after the date of invoice will be considered in default. If the Client in default maintains any information or files on IDDQD Limited's web space, IDDQD Limited will, at its discretion, remove all such material from its web space. IDDQD Limited is not responsible for any loss of data incurred due to the removal of the service. Removal of such material does not relieve the Client of the obligation to pay any outstanding charges assessed to the Client's account. Cheques returned for insufficient funds will be assessed a return charge of £25 and the Client's account will immediately be considered to be in default until full payment is received. Clients with accounts in default agree to pay IDDQD Limited reasonable expenses, including legal fees and costs for collection by third-party agencies, incurred by IDDQD Limited in enforcing these Terms and Conditions.
+a. Accounts unpaid 30 days after the date of invoice will be considered in default. 
+
+b. In the event that the Client is in default, IDDQD Limited may, at its discretion:
+
+i. terminate this Service Agreement without notice; and/or
+
+ii. remove the Website from the server.
+
+c. IDDQD Limited is not responsible for any loss of data incurred due to the removal of the Service. 
+
+d. Removal of such material does not relieve the Client of the obligation to pay any outstanding charges. 
+
+e. Clients with accounts in default agree to pay IDDQD Limited reasonable expenses incurred by IDDQD Limited in enforcing these Terms and Conditions.
 
 10. Termination
 
-Notice of termination of services must be provided by the Client in writing. E-mail or telephone requests for termination of services will not be honoured until and unless confirmed in writing. The Client will be invoiced for design work completed to the date of first notice of cancellation for payment in full within thirty (30) days.
+a. Where the Client terminates this Service Agreement, notice of termination of services of 10 working days must be provided in writing. E-mail or telephone requests for termination of services will not be honoured until and unless confirmed in writing. No refunds for daily fees or commission will be issued under any circumstances. 
 
-11. Indemnity
+b. Where IDDQD Limited terminates this Service Agreement under a "Takeaway Partner" Service, IDDQD Limited will provide 10 working days notice and refund the subscription fee on a pro rata basis.
 
-All IDDQD Limited services may be used for lawful purposes only. You agree to indemnify and hold IDDQD Limited harmless from any claims resulting from your use of our service that damages you or any other party.
+c. If upon the date of termination Commission or Website Revenue is outstanding, any payable sums are to be settled by either party within 10 working days of notice.
 
-12. Copyright
-
-The Client retains the copyright to data, files and graphic logos provided by the Client, and grants IDDQD Limited the rights to publish and use such material. The Client must obtain permission and rights to use any information or files that are copyrighted by a third party. The Client is further responsible for granting IDDQD Limited permission and rights for use of the same and agrees to indemnify and hold harmless IDDQD Limited from any and all claims resulting from the Client's negligence or inability to obtain proper copyright permissions. A contract for website design and/or placement shall be regarded as a guarantee by the Client to IDDQD Limited that all such permissions and authorities have been obtained. Evidence of permissions and authorities may be requested.
-
-13. Standard Media Delivery
-
-Unless otherwise specified in the project quotation, this Agreement assumes that any text will be provided by the Client in electronic format (via e-mail or USB) and that all photographs and other graphics will be provided physically in high quality print suitable for scanning or electronically in .gif, .jpeg, .png or .tiff format. Although every reasonable attempt shall be made by IDDQD Limited to return to the Client any images or printed material provided for use in creation of the Client's website, such return cannot be guaranteed.
-
-14. Design Credit
-
-A link to IDDQD Limited will appear in either small type or by a small graphic at the bottom of the Client's website. If a graphic is used, it will be designed to fit in with the overall site design. 
-
-The Client also agrees that the website developed for the Client may be presented in IDDQD Limited's portfolio.
-
-15. Access Requirements
-
-If the Client's website is to be installed on a third-party server, IDDQD Limited must be granted temporary read/write access to the Client's storage directories which must be accessible via FTP. Depending on the specific nature of the project, other resources might also need to be configured on the server.
-
-16. Domain Names
-
-IDDQD Limited may purchase domain names on behalf of the Client. Payment and renewal of those domain names is the responsibility of the Client. The loss, cancellation or otherwise of the domain brought about by non or late payment is not the responsibility of IDDQD Limited. The Client should keep a record of the due dates for payment to ensure that payment is received in good time.
-
-17. Termination.
-
-The Client may terminate the Service Agreement by providing notice of 15 working days on any day from Commencement Date.
-
-Notice must be provided in writing.
-
-No refunds for daily fees will be issued under any circumstances. 
-
-If upon the date of termination income/commission is still outstanding, income/commission will be paid….###########
-
-
-
-
-___________________________
-If the written notice is not received on or before the payment date an additional full scheduled payment will be taken on the renewal date by the Website Builder Provider.
-
-If you created a 14 day trial before purchasing the website, this constitutes the 7 day notice period (in accordance with the distance selling act), regardless of how many days your trial lasted for. Once you decide to go live, you agree to enter into a 12 month contract with the Website Builder Provider. 
-
-If you did not create a trial before purchasing the website (by purchasing a domain name and website direct from the Website Builder Provider's website homepage), The Website Builder Provider offers a 7 day period (in accordance with the distance selling act) where you are eligible to stop the Service. In such cases a pro-rata refund of hosting charges may be provided. 
-
-20. Liability
+11. Liability
 
 IDDQD Limited hereby excludes itself, its Employees and or Agents from all and any liability from:
 
@@ -141,164 +167,75 @@ Loss or damage to clients' artwork/photos, supplied for the site. Immaterial whe
 
 The entire liability of IDDQD Limited to the Client in respect of any claim whatsoever or breach of this Agreement, whether or not arising out of negligence, shall be limited to the charges paid for the Services under this Agreement in respect of which the breach has arisen.
 
-21. Severability
+12. Indemnity
 
-In the event any one or more of the provisions of this Agreement shall be held to be invalid, illegal or unenforceable, the remaining provisions of this Agreement shall be unimpaired and the Agreement shall not be void for this reason alone. Such invalid, illegal or unenforceable provision shall be replaced by a mutually acceptable valid, legal and enforceable provision, which comes closest to the intention of the parties underlying the invalid,
+All IDDQD Limited services may be used for lawful purposes only. The Client agrees to indemnify and hold IDDQD Limited harmless from any claims resulting from the Client or its customers use of the Service that damages the Client or any other party.
 
-UPGRADE
+13. Service Maintenance and Usage
 
-SUbscription can be upgraded at any time
+a. IDDQD Limited agrees to:
 
+i. maintain all equipment required for its access to and use of the Service;
+ii. maintain the reasonable security of its Customer identification, password and other confidential information; and
+iii. cover charges for bandwidth and/or SSL.
 
-LAUNCH DATE
+b. IDDQD Limited makes no guarantee as to the availability of service and is not liable in anyway for loss of service. The IDDQD Limited reserves the right to delete any page it deems unacceptable for any reason without prior verbal or written notice.
 
-Date upon which website development is complete and IDDQD Limited uploads to the server
-
-Where a Client notifies IDDQD Limited that they wish to upgrade to a "Takeaway Main" Service, this consitutes termination of Service Agreement A. Service Agreement B must be signed ....
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1. Customer Information
-
-The name, address and payment information that the Client provides upon subscription to the Service, together with information regarding the manner in which the Client uses the Service and/or the Internet, will not be processed or disclosed by IDDQD Limited except as permitted by this Agreement.
-
-2. The Service Usage
-
-The Client may create a Website subject to the terms of this Agreement, the Service policies, and applicable law. All webpages are subject to review, modification and deletion without notice by IDDQD Limited or an authorized agent. IDDQD Limited reserves the right in its sole discretion to change its policies at any time.
-
-The minimum contract period is 12 months. 
-
-IDDQD Limited makes no guarantee as to the availability of service and is not liable in anyway for loss of service. The IDDQD Limited reserves the right to delete any page it deems unacceptable for any reason without prior verbal or written notice. The Client's failure to observe any of the foregoing limitations or obligations shall result in termination of its relationship with IDDQD Limited and may result in civil or criminal liability. 
-
-2.2 Maintenance
-
-The Client agrees to (a) maintain all equipment required for its access to and use of the Service; (b) maintain the security of its Customer identification, password and other confidential information relating to its Service account; and (c) be responsible for all charges resulting from use of its Service account, including unauthorized use prior to your notifying IDDQD Limited of such use and taking steps to prevent its further occurrence.
-
-3. Operation
+14. Service Operations
 
 IDDQD Limited reserves complete and sole discretion with respect to the operation of the Service.
 
-4. Customer Representations
+15. Marketing
 
-The Client agrees to be financially responsible for its use of the Services (as well as for use of its account by others) and to comply with its responsibilities and obligations as stated in this Agreement.
+a. The Client permits IDDQD Limited to use the Website to engage in its own online marketing (including Facebook, Twitter, Search Engines) and offline marketing (including pamphlets).
 
-5. Content
+b. The Client agrees that the Website may be presented in IDDQD Limited's portfolio during and after the course of the Service Agreement.
 
-IDDQD Limited does not endorse or stand behind the accuracy, truthfulness or reliability of any information (including statements of opinion or advice) provided on or by means of the Service. 
-#####WEBSITE CONTENT
+16. Upholding Orders
 
-IDDQD Limited is not, under any circumstances, responsible for any copyright or royalty payments arising from content displayed by means of the service. 
+The Client is to make reasonable efforts to ensure that customer orders made on the Website are fulfilled.
 
-6.1 Services
+17. Domain Names
 
-The services are provided "as is," and IDDQD Limited makes no express or implied representations or warranties to you regarding the usability, condition or operation thereof. IDDQD Limited makes no representations or warranties regarding content, goods or services provided by any merchant or third party payment service. IDDQD Limited does not warrant that access to or use of the service will be uninterrupted or error-free, or that the services will meet any particular criteria of performance or quality. IDDQD Limited expressly disclaims all implied warranties, including without limitation, warranties of merchantability, title, fitness for a particular purpose, non-infringement, compatibility, security or accuracy. 
+a. IDDQD will own the domain name for the Website.
 
-6.2 Your Use Of The Services
+b. Client will agree to redirect any of its existing domain/s to the Website address. Payment and renewal of any such domain names is under the control of IDDQD Limited.
 
-The Client assumes full responsibility and risk of loss resulting from its use of the Services. The Client agrees that IDDQD Limited and telecommunications, network and hosting services for IDDQD Limited will not be liable for damages (including consequential or special damages) arising out of the Client's use of or inability to use the Services, or the actions or inactions of IDDQD Limited or any third-party or the goods or services they provide, and the Client hereby waives any claims with respect thereto, whether based on contractual, tort or other grounds, even if IDDQD Limited has been advised of the possibility of damages. IDDQD Limited’s liability to the Client for breach of this agreement is limited to the amount actually paid by the Client for access to and use of the Service, exclusive of payments relating to goods and services purchased from any third parties. The Client hereby releases IDDQD Limited from any and all obligations, liabilities and claims in excess of this limitation. Some jurisdictions do not allow implied warranties to be excluded or modified or liability to be limited, so not all of the above limitations may apply to the Client.
+18. Severability
+
+In the event any one or more of the provisions of this Agreement shall be held to be invalid, illegal or unenforceable, the remaining provisions of this Agreement shall be unimpaired and the Agreement shall not be void for this reason alone. Such invalid, illegal or unenforceable provision shall be replaced by a mutually acceptable valid, legal and enforceable provision, which comes closest to the intention of the parties underlying the invalid,
+
+19. Jurisdiction
+
+This Agreement is governed by the laws of the United Kingdom, and the Client consents to the exclusive jurisdiction of UK law in all disputes arising out of or relating to its use of the Service or its Service relationship.
+
+20. Scope
+
+This Agreement constitutes the entire agreement between IDDQD Limited and the Client with respect to the Client's use of the service and its Service relationship, and it supersedes all prior or contemporaneous communications and proposals, whether oral or written, between IDDQD Limited and the Client with respect thereto.
 
 
-7. Charges
 
-The Client agrees to pay all charges (including, without limitation, the Service customer fees) for its use of the Service throughout the duration of the agreed contract period. 
 
-The Service customer fees, if applicable, will be subject to VAT, sales or other taxes as appropriate. IDDQD Limited reserves the right to change prices or institute new charges for access to or use of the Service at any time upon not less than thirty (30) days' notice to Customers. All changes will be posted online and sent to the Client by email at the Client's registered email address, and the Client is responsible for reviewing checking its email and the pricing information posted on regularly to obtain timely notice of such changes.
 
-Continued use of the Service or non-termination of the Client's customer-ship after changes are posted constitutes the Client's acceptance of the prices as modified by the posted changes. 
 
-Charges are to be paid on a monthly basis in the currency in which billed. If the payment method for the Client's Service account is by credit or debit card and if payment is not received by IDDQD Limited from the card issuer or its agents, the Client agrees to pay all amounts due upon demand by IDDQD Limited. 
 
-The Client's card issuer's agreement governs the Client's use of its designated card in connection with the Service, and the Client must refer to such agreement (not this Agreement) with respect to its rights and liabilities as a cardholder. The Client agrees that IDDQD Limited may (at its option) accumulate charges incurred during your billing cycle and submit them as one or more aggregate charges during or at the end of each cycle, and that the Website Builder Provider may delay obtaining authorization from your card issuer until submission of the accumulated charge(s). This means that accumulated charges may appear on the statement you receive from your card issuer. 
-You must promptly notify the Website Builder Provider of changes to: (a) the account number or expiration date of your designated card; (b) your billing address; and (c) the name of any other person whom you have authorized to use your Service account. You must also promptly notify The Website Builder Provider if your card is cancelled (e.g., for loss or theft) or if you become aware of a potential breach of security, such as the unauthorized disclosure or use of your Customer identification, user name or password. 
 
-8. Statements And Payment.
 
-IDDQD Limited will provide the Client with a statement of charges on its Service account as and when such charges are incurred and/or paid: however, any failure of IDDQD Limited to provide the Client with a statement does not affect the Client's responsibility to pay any incurred charges. 
 
-IDDQD Limited reserves the right to suspend or terminate the Client's Service relationship without notice upon rejection of any card charges or if the Client card issuer (or its agent or affiliate) seeks return of payments previously made to the IDDQD Limited when IDDQD Limited believes the Client is liable for the charge. Such rights are in addition to and not in lieu of any other legal rights or remedies available to IDDQD Limited. 
 
-If IDDQD Limited deems a late payment is required in compensation for work undertaken relating to the late payment, the Client agrees to pay a late charge on all amounts due. The late charge will equal a one off payment per month of Ten pounds plus one and one-half percent (1 1/2%) of the past due amount per month until paid or, if such rate is in excess of the allowable rate, the maximum rate allowed by law. IDDQD Limited reserves the right to refer the Client's service account to a third party for collection in the event of ongoing default.
 
-If your monthly payment is delayed 
 
-12. Effective Date
 
-Changes to Terms. This Agreement takes effect on the date on which the Client signs this Agreement and continues until the Service relationship is terminated either by the Client or by IDDQD Limited. IDDQD Limited reserves the right to change this agreement at any time by posting changes online. The Client is responsible for reviewing regularly information posted online to obtain timely notice of such changes. The Client's non-termination or continued use of the Service after changes are posted constitutes its acceptance of this agreement as modified by the posted changes. 
 
-13. General
 
-This Agreement is governed by the laws of the United Kingdom, and the Client consents to the exclusive jurisdiction of UK law in all disputes arising out of or relating to its use of the Service or its Service relationship. 
 
-The Client acknowledges that no joint venture, partnership, employment, or agency relationship exists between the Client and IDDQD Limited as a result of the Client's use of the Service. The Client agrees not to hold itself out as a representative, agent or employee of IDDQD Limited and that IDDQD Limited will not be liable by reason of any representation, act or omission to act by the Client. 
 
-IDDQD Limited’s performance under this Agreement is subject at all times to existing laws and legal process and nothing contained in this Agreement is in derogation of IDDQD Limited’s right to comply with law enforcement requests or requirements relating to the Client's use of the Service.
 
-14. Customised Design
+PRIVACY AGREEMENT
 
-IDDQD Limited operates a subsidised customised website design service where the Client may obtain a customised template design for a website that has been customised for the Client with the help of a website designer. The costs for this service are a fraction of the market rates charged by mainstream website designers. The copyright of the design produced remains with IDDQD Limited. IDDQD Limited reserves the right to re-use the design at a later stage if appropriate.
+0. Customer Information
 
-The structure, layout, design and any webpage content (words and pictures) supplied by IDDQD Limited remains the intellectual property of IDDQD Limited and must not, under any circumstances, be used without IDDQD Limited's explicit consent . The IDDQD Limited will defend all attempts to copy, reproduce or plagiarise its intellectual property.
+i. IDDQD has access
 
-15. Scope
+ii. Client has access
 
-This Agreement constitutes the entire agreement between IDDQD Limited and the Client with respect to the Client's use of the service and its Service relationship, and it supercedes all prior or contemporaneous communications and proposals, whether oral or written, between IDDQD Limited and the Client with respect thereto.
